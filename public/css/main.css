@@ -1,0 +1,40 @@
+body {
+    background: rgb(14, 175, 14);
+}
+
+.bgcolor {
+    background-color: #FFFFFF;
+}
+
+.bgpage {
+    background-color: #3e3e3e;
+}
+
+.bggray {
+    background-color: #e8ecef;
+}
+
+.site-footer
+{
+    background-color:#3e3e3e;
+    padding:45px 0 25px;
+    font-size:15px;
+    color:#FFFFFF;
+}
+
+.site-footer hr
+{
+    border-top-color:#bbb;
+    opacity:0.5
+}
+
+.site-footer a
+{
+  color:#FFFFFF;
+}
+
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
